@@ -1,7 +1,7 @@
-<h1>Netflix Clone Projesi</h1>
+<h1>Netflix Clone Project</h1>
 
-HTML ve CSS kullanarak Netflix sitesi anasayfasının ön yüzü geliştirildi.
+Developed the frontend of the Netflix site homepage using HTML and CSS.
 
-<h2>Ekran Görüntüsü</h2>
+<h2>Screenshot</h2>
 
 ![](ekran.gif)
