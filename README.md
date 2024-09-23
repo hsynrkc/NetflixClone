@@ -2,6 +2,6 @@
 
 Developed the frontend of the Netflix site homepage using HTML and CSS.
 
-<h2>Screenshot</h2>
+<h2>Preview</h2>
 
 ![](ekran.gif)
